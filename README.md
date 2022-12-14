@@ -12,7 +12,13 @@ Here are some ideas to get you started:
 
 
 ![image info](./badges/Apps-Java-icon.png)
-![image info](./badges/Amazon_Web_Services_Logo.svg)
+![image info](./badges/64px-Javascript_badge.svg)
+![image info](./badges/Typescript_logo_2020.svg)
+![image info](./badges/32px-C_Sharp_wordmark.svg)
+![image info](./badges/aws.svg)
+
+
+
 
 
 <!--
