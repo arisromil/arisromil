@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![image info](./badges/64px-Angular_full_color_logo.svg.png)
 ![image info](./badges/Typescript_logo_2020.svg.png)
 ![image info](./badges/32px-C_Sharp_wordmark.svg.png)
-![image info](./badges/aws.svg)
+![image info](./badges/aws_Logo.svg.png)
 
 
 
