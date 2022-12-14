@@ -6,10 +6,12 @@
 Here are some ideas to get you started:
 -->
 
+---
+
 - 🔭 I’m currently working on Digital transformation for Engineering firms
 - 🌱 I’m currently learning Identity Management and Functional Programming
 
-
+---
 
 ![image info](./badges/Apps-Java-icon.png)
 ![image info](./badges/64px-Javascript_badge.svg.png)
