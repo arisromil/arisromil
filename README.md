@@ -8,21 +8,21 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on Digital transformation for Engineering firms
-- 🌱 I’m currently learning Identity Management and Functional Programming
+- 🔭 I’m currently working on Digital transformation tech for Engineering firms
 
 ---
 
-![image info](./badges/Apps-Java-icon.png)
-![image info](./badges/64px-Javascript_badge.svg.png)
-![image info](./badges/64px-Angular_full_color_logo.svg.png)
-![image info](./badges/Typescript_logo_2020.svg.png)
-![image info](./badges/32px-C_Sharp_wordmark.svg.png)
-![image info](./badges/aws.svg)
+![image info](./badges/icons8-java-50.png)
+![image info](./badges/icons8-javascript-50.png)
+![image info](./badges/icons8-angularjs-50.png)
+![image info](./badges/icons8-typescript-50.png)
+![image info](./badges/icons8-c-sharp-logo-50.png)
+![image info](./badges/icons8-amazon-web-services-64.png)
 
 
 
 <!--
+- 🌱 I’m currently learning Identity Management and Functional Programming
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
