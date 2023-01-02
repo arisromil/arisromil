@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 I’m currently working on Digital transformation tech for Engineering firms
+- 🔭 I’m currently working on digital transformation tech for engineering firms
+- ⚡ Fun fact: Lived in 3 countries and 4 cities
 
 ---
 
@@ -22,13 +23,13 @@ Here are some ideas to get you started:
 
 
 <!--
-- 🌱 I’m currently learning Identity Management and Functional Programming
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 
