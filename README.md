@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 ---
 
 - 🔭 I’m currently working on digital transformation tech for engineering firms
-- ⚡ Fun fact: Lived in 3 countries and 4 cities
+- 💼 Previously [@IHS Markit](https://github.com/markitdigital)
+- 😄 Pronouns: He/Him
 
 ---
 
@@ -28,7 +29,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- ⚡ Fun fact: Lived in 3 countries and 4 cities
+
 
 -->
 
