@@ -3,14 +3,12 @@
 <!--
 **arisromil/arisromil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 -->
 
 ---
 
 - 🔭 I’m currently working on digital transformation tech for engineering firms
-- 💼 Previously [@IHS Markit](https://github.com/markitdigital)
-- 😄 Pronouns: He/Him
+- 💼 Previously [@IHS Markit / S&P Global](https://github.com/markitdigital)
 
 ---
 
