@@ -6,9 +6,8 @@
 -->
 
 ---
-
-- 🔭 I’m currently working on digital transformation tech for engineering firms
-- 💼 Previously [@IHS Markit / S&P Global](https://github.com/markitdigital)
+- Full ⚡tack Developer
+- 💼 Currently In-Transit: IHS Markit 🡆 S&P Global 🡆 ❔
 
 ---
 
@@ -27,7 +26,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: Lived in 3 countries and 4 cities
+
 
 
 -->
