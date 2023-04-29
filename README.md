@@ -10,6 +10,8 @@
 
 - ✏️ [Some Written Posts](https://arisromil.github.io/)
 
+> "Strength lies in improvisation. All the decisive blows are struck left-handed."  - Walter Benjamin
+
 
 <!--
 - 💼 Transitioning: IHS Markit 🡆 S&P Global 🡆 ❔
