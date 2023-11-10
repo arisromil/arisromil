@@ -3,6 +3,7 @@
 [![Angular](https://raw.githubusercontent.com/arisromil/arisromil/main/badges/icons8-angularjs-50.png)](https://angular.io/)
 [![TypeScript](https://raw.githubusercontent.com/arisromil/arisromil/main/badges/icons8-typescript-50.png)](https://www.typescriptlang.org/)
 [![AWS](https://raw.githubusercontent.com/arisromil/arisromil/main/badges/icons8-amazon-web-services-64.png)](https://aws.amazon.com/) 
+[![Python](https://raw.githubusercontent.com/arisromil/arisromil/main/badges/icons8-python-50.png)](https://www.python.org/) 
 
 - ✏️ [Some Written Posts](https://arisromil.github.io/)  
 
