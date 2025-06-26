@@ -5,7 +5,10 @@
 [![AWS](https://raw.githubusercontent.com/arisromil/arisromil/main/badges/icons8-amazon-web-services-64.png)](https://aws.amazon.com/) 
 [![Python](https://raw.githubusercontent.com/arisromil/arisromil/main/badges/icons8-python-50.png)](https://www.python.org/) 
 [![Spring](https://raw.githubusercontent.com/arisromil/arisromil/main/badges/spring.png)](https://www.spring.io/) 
-[![GoLang](https://github.com/arisromil/arisromil/blob/main/badges/icons8-golang-50.png)]([https://www.spring.io](https://go.dev/)/) 
+[![GoLang](https://github.com/arisromil/arisromil/blob/main/badges/icons8-golang-50.png)](https://go.dev/)
+[![Graphql](https://github.com/arisromil/arisromil/blob/main/badges/5050_graphql_icon.png)](https://graphql.org/)
+
+
 
 - ✏️ [Some Written Posts](https://arisromil.github.io/)  
 
