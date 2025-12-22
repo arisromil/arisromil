@@ -10,7 +10,7 @@
 
 
 
-- ✏️ [Some Written Posts](https://arisromil.github.io/)  
+- ✏️ [Tech Blog and Musings](https://arisromil.github.io/)  
 
 <!--
 - 💼 Transitioning: IHS Markit 🡆 S&P Global 🡆 ❔
